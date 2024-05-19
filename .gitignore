@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/ParagonMinions/FX/VectorFields/VF_Vortex_6.uasset
+Content/ParagonMinions/FX/VectorFields/VF_Vortex_120.uasset
